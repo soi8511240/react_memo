@@ -1,6 +1,6 @@
 템플리 폴더 복사 명령어
 ```
-cp -r /templete 'prject-name'
+cp -R /templete 'prject-name'
 ```
 
 프로젝트 초기화 명령어
